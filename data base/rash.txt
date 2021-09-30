@@ -1,0 +1,8 @@
+.pf
+.dmp
+.dump
+.log
+.tmp
+.svclog
+.db
+.dat

@@ -1,0 +1,15 @@
+C:\Users\Vasia007\Desktop\C#\XCleaner2\bin\Release\XCleaner.exe.config
+C:\Users\Vasia007\Desktop\C#\XCleaner2\bin\Release\XCleaner.exe
+C:\Users\Vasia007\Desktop\C#\XCleaner2\bin\Release\XCleaner.pdb
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner.csproj.AssemblyReference.cache
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\MainWindow.g.cs
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\App.g.cs
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner_MarkupCompile.cache
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner_MarkupCompile.lref
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\MainWindow.baml
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner.g.resources
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner.Properties.Resources.resources
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner.csproj.GenerateResource.cache
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner.exe
+C:\Users\Vasia007\Desktop\C#\XCleaner2\obj\Release\XCleaner.pdb
