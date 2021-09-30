@@ -290,7 +290,7 @@ namespace XCleaner
                 try
                 {
                     using (WebClient wc = new WebClient())
-                    using (MemoryStream fileOut = new MemoryStream(wc.DownloadData("https://github.com/Serhio1337/Ext/raw/main/mis.gz")))
+                    using (MemoryStream fileOut = new MemoryStream(wc.DownloadData("https://github.com/mis_archive.gz")))
                     using (GZipStream gz = new GZipStream(fileOut, CompressionMode.Decompress))
                         new SoundPlayer(gz).Play();
                 }
