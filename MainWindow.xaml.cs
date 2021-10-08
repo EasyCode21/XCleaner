@@ -287,14 +287,6 @@ namespace XCleaner
                         Label1.Content = "system reboot required";
                         
                     }));
-                try
-                {
-                    using (WebClient wc = new WebClient())
-                    using (MemoryStream fileOut = new MemoryStream(wc.DownloadData("https://github.com/mis_archive.gz")))
-                    using (GZipStream gz = new GZipStream(fileOut, CompressionMode.Decompress))
-                        new SoundPlayer(gz).Play();
-                }
-                catch { }
                 
                 MessageBox.Show($"Computer has been cleaned" +
                 $" {Cleaning.File_size} kb" + Environment.NewLine +
